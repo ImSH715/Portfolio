@@ -9,7 +9,8 @@
   
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
-  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project**|Realign the coordinate in the UAV iamge| |Group Project|
+  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project**|Realign the coordinate in the UAV image| |Group Project|
+  |<sub>09.2024 ~ 06.2025</sub>|**Video Classification and Summarisation**|Classifying the detected action and generating summarised version of input video| |Dissertation Project|
   
 </div>
 </details>
