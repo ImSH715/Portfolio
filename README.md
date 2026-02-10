@@ -9,7 +9,7 @@
   
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
-  |<sub>09.2025 ~ </sub>|Geospatial Data Correction Project|Realign the coordinate in the UAV iamge|Group Project|
+  |<sub>09.2025 ~ </sub>|Geospatial Data Correction Project|Realign the coordinate in the UAV iamge| |Group Project|
   
 </div>
 </details>
