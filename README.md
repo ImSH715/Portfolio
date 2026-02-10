@@ -15,3 +15,15 @@
 </div>
 </details>
  
+<details>
+<summary>Experience</summary>
+<div markdown = "2">
+  
+  |Duration|Job Title|Institution|Short Description|Link|
+  |:-:|:-|:-|:-|:-:|
+  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project**|Realign the coordinate in the UAV image| |Group Project|
+  |<sub>09.2024 ~ 06.2025</sub>|**Video Classification and Summarisation**|Classifying the detected action and generating summarised version of the input video|[link](https://github.com/ImSH715/Video-Classification-and-Summarisation)|Dissertation Project|
+  
+</div>
+</details>
+ 
