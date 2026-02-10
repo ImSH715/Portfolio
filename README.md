@@ -6,8 +6,10 @@
 <details>
 <summary>Projects</summary>
 <div markdown = "1">
+  
   |Duration|Project Title|Short Description|Link
   |:-:|:-|:-|:-:|
   |<sub> </sub>| Title | Short Descrition| Link
+  
 </div>
 </details>
