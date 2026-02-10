@@ -13,6 +13,8 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project**|Realign the coordinate in the UAV image| |Group Project|
   |<sub>09.2024 ~ 06.2025</sub>|**Video Classification and Summarisation**|Classifying the detected action and generating summarised version of the input video|[link](https://github.com/ImSH715/Video-Classification-and-Summarisation)|Dissertation Project|
   |<sub>01.2025 ~ 06.2025</sub>|**RC car**|Implemented a RC car controller|[link](https://gitlab.com/jjerry1/com3505-student-2025/-/tree/main/LA2?ref_type=heads)|Group Project|
+  |<sub>10.2024 ~ 12.2024</sub>|**Information Retrieval Algorithm**|Suggested a Python-based algorithm implementing TF, log-normalized TF, normalized TF, IDF, and TF-IDF with cosine similarity to rank relevant documents.| |Coursework|
+  |<sub>01.2024 ~ 06.2024</sub>|**AR Software**|Implemented a AR Software, which achieved Runners Up award from **IBM** and **University of Sheffield**| |Coursework|
   
   
 </div>
