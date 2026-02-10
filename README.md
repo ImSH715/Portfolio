@@ -3,7 +3,7 @@ I am currently a student at the University of Sheffield, studying MComp Artifici
 I have contributed to multiple courseworks, group projects, and personal projects.
 This repository is the main page for my projects and includes short descriptions of the projects I have contributed to.
 
-[CV](https://github.com/ImSH715/Portfolio/blob/main/Files/Seunghyun%20Im%20-%20CV.pdf)
+[Seunghyun Im CV](https://github.com/ImSH715/Portfolio/blob/main/Files/Seunghyun%20Im%20-%20CV.pdf)
 <details>
 <summary>Projects</summary>
 <div markdown = "1">
