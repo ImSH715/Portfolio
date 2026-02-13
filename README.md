@@ -21,7 +21,7 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>10.2024 ~ 12.2024</sub>|**Information Retrieval Algorithm**|Suggested a Python-based algorithm implementing TF, log-normalized TF, normalized TF, IDF, and TF-IDF with cosine similarity to rank relevant documents.|[link](https://github.com/ImSH715/Image-Recognition)|Coursework|
   |<sub>01.2024 ~ 06.2024</sub>|**AR Software**|Implemented a AR Software, which achieved Runners Up award from **IBM** and **University of Sheffield**|[link](https://github.com/Dayini-Syauqina/ai-group-project)|Coursework|
   |<sub>03.2024 ~ 05.2024</sub>|**ROS Assessment**|Operated waffle robot in the ROS environment|[link]()|Coursework|
-  |<sub>09.2023 - 12.2023</sub>|**Image Classification Algorithm**|Classified clear and noisy chessboard images|[link]()|Coursework|
+  |<sub>09.2023 - 12.2023</sub>|**Image Classification Algorithm**|Classified clear and noisy chessboard images|[link](https://github.com/ImSH715/Image-Recognition)|Coursework|
   
 </div>
 </details>
