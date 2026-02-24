@@ -10,7 +10,8 @@ This repository is the main page for my projects and includes short descriptions
   
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
-  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project**|Realign the coordinate in the UAV image| |Group Project|
+  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
+  |<sub>09.2025 ~ </sub>|**Sliding Grid**|Realign the coordinate in the UAV image| |Group Project|
   |<sub>10.2025 ~ </sub>|**Accountability Buddy**|Created an application that can track on myself and buddy's workout challenges| |Group Project|
   |<sub>10.2025 ~ 12.2025</sub>|**Speech Processing Assignment**|Applied frequency analysis approaches| |Coursework|
   |<sub>10.2025 ~ 12.2025</sub>|**Machine Learning and Adaptive Intelligence Assignment**|Implemented an algorithm that predicts the bee's location. Programmed an image reconstruction model| |Coursework|
