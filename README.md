@@ -8,14 +8,12 @@ This repository is the main page for my projects and includes short descriptions
 <details>
 <summary>Programming Experience</summary>
 <div markdown = "1">
-<details>
   |Duration|Job Title|Institution|Short Description|Link|
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**UG Demonstrator**|**University of Sheffield**|Support year 1 studetns in understanding **Ruby**||
   |<sub>06.2025 ~ 09.2025</sub>|**Summar Research Intern**|**Insigneo Institute**|Contributed to a research project as part of an institute initiative, in partnership with the **University of Sheffield** and the **NHS**|[link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf)|
 </details>
 </div>
-</details>
   
 <details> 
 <summary>Projects</summary>
@@ -37,5 +35,4 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>09.2023 - 12.2023</sub>|**Image Classification Algorithm**|Classified clear and noisy chessboard images|[link](https://github.com/ImSH715/Image-Recognition)|Coursework|
 </div>
 </details>
-</deatils>
 
