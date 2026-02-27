@@ -12,7 +12,7 @@ This repository is the main page for my projects and includes short descriptions
 | Duration | Job Title | Institution | Short Description | Link |
 | :---: | :--- | :--- | :--- | :---: |
 | <sub>09.2025 ~ </sub> | **UG Demonstrator** | **University of Sheffield** | Support Year 1 students in mastering **Ruby** programming fundamentals. | |
-| <sub>06.2025 ~ 09.2025</sub> | **Summer Research Intern** | **Insigneo Institute** | Developed a research project in partnership with the **University of Sheffield** and the **NHS**. | [📄 Link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf) |
+| <sub>06.2025 ~ 09.2025</sub> | **Summer Research Intern** | **Insigneo Institute** | Developed a research project in partnership with the **University of Sheffield** and the **NHS**. | [Link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf) |
 
 </div>
 </details>
@@ -20,6 +20,7 @@ This repository is the main page for my projects and includes short descriptions
 <details> 
 <summary>Projects</summary>
 <div markdown = "2">
+  
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
