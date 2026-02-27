@@ -4,9 +4,9 @@ I have contributed to multiple courseworks, group projects, and personal project
 This repository is the main page for my projects and includes short descriptions of the projects I have contributed to.
 
 [Seunghyun Im CV](https://github.com/ImSH715/Portfolio/blob/main/Files/Seunghyun%20Im%20-%20CV.pdf)
+
 <details>
 <summary>Programming Experience</summary>
-
 <div markdown = "1">
 <details>
   |Duration|Job Title|Institution|Short Description|Link|
@@ -17,11 +17,9 @@ This repository is the main page for my projects and includes short descriptions
 </div>
 </details>
   
- 
+<details> 
 <summary>Projects</summary>
 <div markdown = "2">
-  
-  
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
@@ -37,10 +35,7 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>01.2024 ~ 06.2024</sub>|**AR Software**|Implemented a AR Software, which achieved Runners Up award from **IBM** and **University of Sheffield**|[link](https://github.com/Dayini-Syauqina/ai-group-project)|Coursework|
   |<sub>03.2024 ~ 05.2024</sub>|**ROS Assessment**|Operated waffle robot in the ROS environment|[link](https://github.com/acd20cc/COM2009-Team-61)|Coursework|
   |<sub>09.2023 - 12.2023</sub>|**Image Classification Algorithm**|Classified clear and noisy chessboard images|[link](https://github.com/ImSH715/Image-Recognition)|Coursework|
-
-    
-
 </div>
 </details>
- 
+</deatils>
 
