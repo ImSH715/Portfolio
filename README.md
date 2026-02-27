@@ -5,13 +5,10 @@ This repository is the main page for my projects and includes short descriptions
 
 [Seunghyun Im CV](https://github.com/ImSH715/Portfolio/blob/main/Files/Seunghyun%20Im%20-%20CV.pdf)
 <details>
-<summary>Projects</summary>
-<div markdown = "1">
-
-<details>
 <summary>Programming Experience</summary>
-<div markdown = "2">
-  
+
+<div markdown = "1">
+<details>
   |Duration|Job Title|Institution|Short Description|Link|
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**UG Demonstrator**|**University of Sheffield**|Support year 1 studetns in understanding **Ruby**||
@@ -20,6 +17,10 @@ This repository is the main page for my projects and includes short descriptions
 </div>
 </details>
  
+<summary>Projects</summary>
+<div markdown = "2">
+  
+  
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
