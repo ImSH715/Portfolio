@@ -13,9 +13,10 @@ This repository is the main page for my projects and includes short descriptions
   |:-:|:-|:-|:-|:-:|
   |<sub>09.2025 ~ </sub>|**UG Demonstrator**|**University of Sheffield**|Support year 1 studetns in understanding **Ruby**||
   |<sub>06.2025 ~ 09.2025</sub>|**Summar Research Intern**|**Insigneo Institute**|Contributed to a research project as part of an institute initiative, in partnership with the **University of Sheffield** and the **NHS**|[link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf)|
-  
+</details>
 </div>
 </details>
+  
  
 <summary>Projects</summary>
 <div markdown = "2">
@@ -36,7 +37,9 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>01.2024 ~ 06.2024</sub>|**AR Software**|Implemented a AR Software, which achieved Runners Up award from **IBM** and **University of Sheffield**|[link](https://github.com/Dayini-Syauqina/ai-group-project)|Coursework|
   |<sub>03.2024 ~ 05.2024</sub>|**ROS Assessment**|Operated waffle robot in the ROS environment|[link](https://github.com/acd20cc/COM2009-Team-61)|Coursework|
   |<sub>09.2023 - 12.2023</sub>|**Image Classification Algorithm**|Classified clear and noisy chessboard images|[link](https://github.com/ImSH715/Image-Recognition)|Coursework|
-  
+
+    
+
 </div>
 </details>
  
