@@ -27,7 +27,7 @@ This repository is the main page for my projects and includes short descriptions
   |<sub>09.2025 ~ </sub>|**Sliding Grid**|Realign the coordinate in the UAV image| |Group Project|
   |<sub>10.2025 ~ </sub>|**Accountability Buddy**|Created an application that can track on myself and buddy's workout challenges| |Group Project|
   |<sub>10.2025 ~ 12.2025</sub>|**Speech Processing Assignment**|Applied frequency analysis approaches|[link](https://github.com/ImSH715/Speech-Processing-Audio-Signal-Analysis)|Coursework|
-  |<sub>10.2025 ~ 12.2025</sub>|**Machine Learning and Adaptive Intelligence Assignment**|Implemented an algorithm that predicts the bee's location. Programmed an image reconstruction model| |Coursework|
+  |<sub>10.2025 ~ 12.2025</sub>|**Machine Learning and Adaptive Intelligence Assignment**|Implemented an algorithm that predicts the bee's location. Programmed an image reconstruction model|[link](https://github.com/ImSH715/Machine-Learning-Algorithm-Data-Analysis) |Coursework|
   |<sub>06.2025 - 09.2025 </sub>|**Analyse lung image (Part A)**|Implemented a quadtree algorithm to find the heterogeneity from the MRI lung (healthy, asthma, COPD) image dataset| |Research Intern|
   |<sub>06.2025 - 09.2025 </sub>|**Analyse lung image (Part B)**|Implemented an algorithm to analyse the specific volume values from the CT lung (healthy, asthma, COPD) image dataset| |Research Intern|
   |<sub>09.2024 ~ 06.2025</sub>|**Video Classification and Summarisation**|Classifying the detected action and generating summarised version of the input video|[link](https://github.com/ImSH715/Video-Classification-and-Summarisation)|Dissertation Project|
