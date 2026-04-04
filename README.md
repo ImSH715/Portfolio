@@ -23,6 +23,7 @@ This repository is the main page for my projects and includes short descriptions
   
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
+  |<sub>09.2025 ~ </sub>|**Algorithm Optimisation Using OpenMP and CUDA**|Optimising Three Algorithm using Parallel Computing Techniques (Count Gliders - Conway’s Game of Life, Histogram, Emboss Filtering)|Currently in Implementation |Group Project|
   |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
   |<sub>09.2025 ~ </sub>|**Sliding Grid**|Realign the coordinate in the UAV image| |Group Project|
   |<sub>10.2025 ~ </sub>|**Accountability Buddy**|Created an application that can track on myself and buddy's workout challenges| |Group Project|
