@@ -11,7 +11,8 @@ This repository is the main page for my projects and includes short descriptions
 
 | Duration | Job Title | Institution | Short Description | Link |
 | :---: | :--- | :--- | :--- | :---: |
-| <sub>09.2025 ~ </sub> | **UG Demonstrator** | **University of Sheffield** | Support Year 1 students in mastering **Ruby** programming fundamentals. | |
+| <sub>06.2026 ~ present</sub> | **Summer Research Intern** | **Insigneo Institute** | Researching and Implementing **HAR Benchmark Pipeline: Multi-Dataset Harmonisation for Wearable IMU Sensors** project. | [Link](https://github.com/ImSH715/har-benchmark-pipeline) |
+| <sub>09.2025 ~ 06.2026</sub> | **UG Demonstrator** | **University of Sheffield** | Support Year 1 students in mastering **Ruby** programming fundamentals. | |
 | <sub>06.2025 ~ 09.2025</sub> | **Summer Research Intern** | **Insigneo Institute** | Developed a research project in partnership with the **University of Sheffield** and the **NHS**. | [Link](https://github.com/ImSH715/Specific-Volume-Generator/blob/main/Poster/Contrast%20agent%20free%20regional%20ventilation%20imaging%20in%20CT%20and%20MRI%20-%20Poster.pptx.pdf) |
 
 </div>
@@ -23,10 +24,12 @@ This repository is the main page for my projects and includes short descriptions
   
   |Duration|Project Title|Short Description|Link|Project Type|
   |:-:|:-|:-|:-|:-:|
-  |<sub>09.2025 ~ </sub>|**Algorithm Optimisation Using OpenMP and CUDA**|Optimising Three Algorithm using Parallel Computing Techniques (Count Gliders - Conway’s Game of Life, Histogram, Emboss Filtering)|Currently in Implementation |Group Project|
-  |<sub>09.2025 ~ </sub>|**Geospatial Data Correction Project using LeJEPA**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
-  |<sub>09.2025 ~ </sub>|**Sliding Grid**|Realign the coordinate in the UAV image| |Group Project|
-  |<sub>10.2025 ~ </sub>|**Accountability Buddy**|Created an application that can track on myself and buddy's workout challenges| |Group Project|
+  |<sub>06.2026 ~ present</sub>|**HAR Benchmark Pipeline: Multi-Dataset Harmonisation for Wearable IMU Sensors**|Analysing human activity pattern by applying machine learning algorithm, and sensor dataset.|[link](https://github.com/ImSH715/har-benchmark-pipeline)|Research Intern Project|
+  |<sub>06.2026 ~ present</sub>|**Retail deman driven recommendation system**|AI retail recommendation system that predicts customers' demand|[link](https://github.com/ImSH715/Retail-Demand-Driven-Recommendation-System)|Personal Project|
+  |<sub>09.2025 ~ 06.2026</sub>|**Algorithm Optimisation Using OpenMP and CUDA**|Optimising Three Algorithm using Parallel Computing Techniques (Count Gliders - Conway’s Game of Life, Histogram, Emboss Filtering)|Currently in Implementation |Group Project|
+  |<sub>09.2025 ~ 06.2026</sub>|**Geospatial Data Correction Project using Machine Learning Algorithm**|Realign the coordinate in the UAV image|Currently in Implementation |Group Project|
+  |<sub>09.2025 ~ 06.2026</sub>|**Sliding Grid**|Realign the coordinate in the UAV image| |Group Project|
+  |<sub>10.2025 ~ 05.2026</sub>|**Accountability Buddy**|Created an application that can track on myself and buddy's workout challenges| |Group Project|
   |<sub>10.2025 ~ 12.2025</sub>|**Speech Processing Assignment**|Applied frequency analysis approaches|[link](https://github.com/ImSH715/Speech-Processing-Audio-Signal-Analysis)|Coursework|
   |<sub>10.2025 ~ 12.2025</sub>|**Machine Learning and Adaptive Intelligence Assignment**|Implemented an algorithm that predicts the bee's location. Programmed an image reconstruction model|[link](https://github.com/ImSH715/Machine-Learning-Algorithm-Data-Analysis) |Coursework|
   |<sub>06.2025 - 09.2025 </sub>|**Analyse lung image (Part A)**|Implemented a quadtree algorithm to find the heterogeneity from the MRI lung (healthy, asthma, COPD) image dataset| |Research Intern|
